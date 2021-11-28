@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software developer from Indonesia
 
-- 🔭 Working on creating Citizen Administration System for my village using React and Nodejs
+- 🔭 Working on creating Inventory Management for personal use
 - 🌱 Learning React and Nodejs in depth
 <br>
 
