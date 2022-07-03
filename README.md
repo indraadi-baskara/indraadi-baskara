@@ -1,7 +1,6 @@
 ### Hello World 👋
 I am a fullstack software developer from Indonesia
 
-- 🔭 Working on creating Inventory Management for personal use
 - 🌱 Learning React and Nodejs in depth
 <br>
 
